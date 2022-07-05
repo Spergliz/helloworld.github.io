@@ -8,6 +8,6 @@ To Do list ... a differnet organization
 
 [] gotta do this later
 
-[] done
+[X] done
 
 [] gonna do this later
